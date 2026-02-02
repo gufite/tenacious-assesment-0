@@ -5,6 +5,8 @@ This repository contains Assessment 0 for the Ten Academy training program. It s
 
 ## Getting Started
 
+📋 **Quick Start:** See [CHECKLIST.md](CHECKLIST.md) for step-by-step assessment tasks.
+
 ### Prerequisites
 - Git installed on your system
 - A code editor (e.g., VS Code, Cursor)
