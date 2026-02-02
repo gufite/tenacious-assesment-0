@@ -12,7 +12,7 @@ This repository contains Assessment 0 for the Ten Academy training program. It s
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/gufite/tenacious-assesment-0.git
    cd assesment-0
    ```
 
